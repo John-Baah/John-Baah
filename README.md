@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning Html, Css, Js, C++ and Python
-I'm currently working on a automobile shop website
+-🌱I'm currently learning Html, Css, Js, C++ and Python
+-🔭I'm currently working on a automobile shop website
